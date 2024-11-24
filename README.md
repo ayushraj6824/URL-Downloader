@@ -1,6 +1,4 @@
-Here’s a sample README file for your GitHub repository:
 
----
 
 # URL-Downloader
 
@@ -40,16 +38,11 @@ Here are some screenshots of the app in action:
 ![Screenshot 2](path_to_screenshot2.png)
 ![Screenshot 1](path_to_screenshot3.png)
 
-*Note: Replace "path_to_screenshot" with the actual path to your screenshots in the repo.*
 
 ## Contributing
 
 If you’d like to contribute to this project, please fork the repository and submit a pull request with your proposed changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-You can replace the placeholder text with actual details related to your project and screenshots. Let me know if you need any modifications!
+]
