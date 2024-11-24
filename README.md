@@ -34,9 +34,9 @@ pip install -r requirements.txt
 
 Here are some screenshots of the app in action:
 
-![Screenshot 1](path_to_screenshot1.png)
-![Screenshot 2](path_to_screenshot2.png)
-![Screenshot 1](path_to_screenshot3.png)
+![Screenshot 1](Assets/Screenshot1.png)
+![Screenshot 2](Assets/Screenshot2.png)
+![Screenshot 3](Assets/Screenshot3.png)
 
 
 ## Contributing
